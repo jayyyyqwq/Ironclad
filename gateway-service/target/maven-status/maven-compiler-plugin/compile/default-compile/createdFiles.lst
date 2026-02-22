@@ -1,0 +1,5 @@
+com\ironclad\gateway\config\KafkaConfig.class
+com\ironclad\gateway\GatewayApplication.class
+com\ironclad\gateway\controller\TelemetryController.class
+com\ironclad\gateway\dto\TelemetryData.class
+com\ironclad\gateway\service\TelemetryProducer.class

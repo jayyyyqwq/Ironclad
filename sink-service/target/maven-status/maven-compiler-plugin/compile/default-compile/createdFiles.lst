@@ -1,0 +1,6 @@
+com\ironclad\sink\repository\TelemetryRepository.class
+com\ironclad\sink\entity\TelemetryEntity.class
+com\ironclad\sink\SinkApplication.class
+com\ironclad\sink\service\TelemetryConsumer.class
+com\ironclad\sink\dto\TelemetryData.class
+com\ironclad\sink\config\KafkaConsumerConfig.class

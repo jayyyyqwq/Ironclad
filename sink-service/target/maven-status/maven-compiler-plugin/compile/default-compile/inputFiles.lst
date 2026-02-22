@@ -1,0 +1,6 @@
+C:\webtime\ironclad\sink-service\src\main\java\com\ironclad\sink\entity\TelemetryEntity.java
+C:\webtime\ironclad\sink-service\src\main\java\com\ironclad\sink\SinkApplication.java
+C:\webtime\ironclad\sink-service\src\main\java\com\ironclad\sink\config\KafkaConsumerConfig.java
+C:\webtime\ironclad\sink-service\src\main\java\com\ironclad\sink\service\TelemetryConsumer.java
+C:\webtime\ironclad\sink-service\src\main\java\com\ironclad\sink\repository\TelemetryRepository.java
+C:\webtime\ironclad\sink-service\src\main\java\com\ironclad\sink\dto\TelemetryData.java
